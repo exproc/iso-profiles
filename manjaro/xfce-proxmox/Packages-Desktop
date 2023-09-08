@@ -259,4 +259,4 @@ sshfs
 pwgen
 tailscale
 seahorse
-qemu-guest-agent
+#qemu-guest-agent
